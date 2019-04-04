@@ -1,0 +1,14 @@
+{
+  "name": "senbenobot",
+  "version": "0.0.1",
+  "description": "Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "DeAtHeRApps",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
